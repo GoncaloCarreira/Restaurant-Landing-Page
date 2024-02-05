@@ -15,7 +15,7 @@ This is an HTML5 project designed for a restaurant landing page. It provides a v
   - Subscribe: Form for newsletter subscription.
   - Contact Us: Form for user messages.
 - **Recipe Pages:**
-  - Clicking on a recipe in the Blog section will prompt the user to navigate to the respective recipe page for more details.
+  - Clicking on a recipe in the Blog section will render a new view of the respective recipe page for more details.
  
 # Technologies Used
 
